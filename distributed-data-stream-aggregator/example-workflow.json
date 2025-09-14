@@ -1,0 +1,5 @@
+{
+  "Comment": "Example input for Distributed Data Stream Aggregator workflow",
+  "task_id": "example-task-123",
+  "task_sort_key": "2024-01-15T10:30:00Z"
+}
